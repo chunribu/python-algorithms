@@ -12,6 +12,6 @@ class MaximumSubarray:
         print(array[start_idx:end_idx+1])
         return max_sum
 
-if __name__ == '__main__':
-    ms = MaximumSubarray()
-    ms.solve([-2, 1, -3, 4, -1, 2, 1, -5, 4])
+# test
+ms = MaximumSubarray()
+ms.solve([-2, 1, -3, 4, -1, 2, 1, -5, 4])

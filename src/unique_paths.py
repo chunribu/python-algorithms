@@ -8,6 +8,6 @@ class UniquePaths:
                 else:
                     board[x][y] = board[x-1][y] + board[x][y-1]
         return board[x][y]
-if __name__ =='__main__':
-    up = UniquePaths()
-    up.solve(7,3)
+# test
+up = UniquePaths()
+up.solve(7,3)

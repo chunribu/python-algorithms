@@ -7,6 +7,6 @@ class RecursiveStaircase:
         if stair_num == 1: return 1
         if stair_num == 2: return 2
         return self.solve(stair_num-1) + self.solve(stair_num-2)
-if __name__ == '__main__':
-    rs = RecursiveStaircase()
-    rs.solve(100)
+# test
+rs = RecursiveStaircase()
+rs.solve(100)

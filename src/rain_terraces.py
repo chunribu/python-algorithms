@@ -10,6 +10,6 @@ class RainTerraces:
         max_from_right.reverse()
         water_amount = [min(max_from_left[i], max_from_right[i])-terraces[i] for i in range(n)]
         return sum(water_amount)
-if __name__ == '__main__':
-    rt = RainTerraces()
-    rt.solve([3, 0, 0, 2, 0, 4])
+# test
+rt = RainTerraces()
+rt.solve([3, 0, 0, 2, 0, 4])

@@ -6,6 +6,6 @@ class JumpGame:
             if array[i] + i >= good_idx:
                 good_idx = i 
         return good_idx == 0
-if __name__ =='__main__':
-    jg = JumpGame()
-    jg.solve([[3,2,1,0,4]])
+# test
+jg = JumpGame()
+jg.solve([[3,2,1,0,4]])

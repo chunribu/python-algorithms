@@ -26,7 +26,7 @@ class NQueens:
             for c, r in enumerate(s): chessboard[r][c] = 'Q'
             print(f'Solution NO. {idx+1}:')
             for i in chessboard: print(' '.join(i))
-if __name__ == '__main__':
-    nq = NQueens(8)
-    nq.solve()
-    nq.show()
+# test
+nq = NQueens(8)
+nq.solve()
+nq.show()
