@@ -11,8 +11,8 @@
 + [Longest Increasing Subsequence](longest_increasing_subsequence.md)
 + [Greatest Common Divisor](greatest_common_divisor.md)
 + [Levenshtein Distance](levenshtein_distance.md)
-+ [Regular Expression Matching](regular_expression_matching.md) (To be completed)
-+ [Knight's Tour](knights_tour.md) (To be completed)
++ [Regular Expression Matching](regular_expression_matching.md) (Pending)
++ [Knight's Tour](knights_tour.md) (Pending)
 
 *Note: Algorithms related to graphs are not included in this collection.*
 
