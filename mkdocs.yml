@@ -1,0 +1,15 @@
+site_name: Classical Algorithm Problems in Python
+nav:
+    - Home: index.md
+    - N-Queens: n_queens.md
+    - Rain Terraces: rain_terraces.md
+    - Recursive Staircase: recursive_staircase.md
+    - Jump Game: jump_game.md
+    - Maximum Subarray: maximum_subarray.md
+    - Unique Paths: unique_paths.md
+    - Longest Increasing Subsequence: longest_increasing_subsequence.md
+    - Greatest Common Divisor: greatest_common_divisor.md
+    - Levenshtein Distance: levenshtein_distance.md
+    - Regular Expression Matching: regular_expression_matching.md
+    - Knight's Tour: knights_tour.md
+theme: readthedocs
