@@ -2,7 +2,7 @@
 
 **Maintainer:** [chunribu](mailto:chunribu@mail.sdu.edu.cn)
 
-+ [N-Queens](n_queens.md)
++ [N Queens](n_queens.md)
 + [Rain Terraces](rain_terraces.md)
 + [Recursive Staircase](recursive_staircase.md)
 + [Jump Game](jump_game.md)
