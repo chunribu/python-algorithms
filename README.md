@@ -14,7 +14,10 @@ A collection of classical algorithm problems and their Python solutions.
 + [Longest Increasing Subsequence](src/longest_increasing_subsequence.md)
 + [Greatest Common Divisor](src/greatest_common_divisor.md)
 + [Levenshtein Distance](src/levenshtein_distance.md)
-+ [. . .]()
++ [Regular Expression Matching](src/regular_expression_matching.md) (To be completed)
++ [Knight's Tour](knights_tour.md) (To be completed)
+
+*Note: Algorithms related to graphs are not included in this repository.*
 
 ## Appendix
 
