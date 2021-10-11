@@ -1,4 +1,3 @@
-version: latest
 mkdocs:
   configuration: mkdocs.yml
 
