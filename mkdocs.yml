@@ -11,6 +11,6 @@ nav:
     - Longest Increasing Subsequence: longest_increasing_subsequence.md
     - Greatest Common Divisor: greatest_common_divisor.md
     - Levenshtein Distance: levenshtein_distance.md
-    - Regular Expression Matching: regular_expression_matching.md
     - Knight's Tour: knights_tour.md
+    - Regular Expression Matching: regular_expression_matching.md
 theme: readthedocs
