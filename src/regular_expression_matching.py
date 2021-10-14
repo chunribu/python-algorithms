@@ -34,6 +34,7 @@ class RegularExpressionMatching:
                     match_matrix[(i,j)] = match_matrix[(i-1, j-1)]
                 else:
                     match_matrix[(i,j)] = False
+        return match_matrix[(len(string), len(pattern))]
 if __name__ == '__main__':
     rem = RegularExpressionMatching()
     rem.solve(string='aab', pattern='c*a*b')

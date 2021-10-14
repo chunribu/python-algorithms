@@ -15,7 +15,7 @@ A collection of classical algorithm problems and their Python solutions.
 + [Greatest Common Divisor](src/greatest_common_divisor.md)
 + [Levenshtein Distance](src/levenshtein_distance.md)
 + [Knight's Tour](knights_tour.md)
-+ [Regular Expression Matching](src/regular_expression_matching.md) (To be completed)
++ [Regular Expression Matching](src/regular_expression_matching.md)
 
 *Note: Algorithms related to graphs are not included in this repository.*
 
